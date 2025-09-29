@@ -46,20 +46,22 @@ The aim is to design and implement a 6T SRAM (Static Random-Access Memory) cell 
 
 #### 1. Schematic of 6T SRAM Cell:
 
-  <img width="1920" height="1080" alt="Screenshot 2025-09-29 155321" src="https://github.com/user-attachments/assets/a7336478-e3a5-4a2b-ad39-0a7d1d065a18" />
+ <img width="1920" height="1080" alt="Screenshot 2025-09-29 155321" src="https://github.com/user-attachments/assets/a7336478-e3a5-4a2b-ad39-0a7d1d065a18" />
 
 
 
-   ![image](https://github.com/user-attachments/assets/c28aea2b-9e73-48e6-abdb-11c430321b86)
+ ![image](https://github.com/user-attachments/assets/c28aea2b-9e73-48e6-abdb-11c430321b86)
 
 
 ## Output
 #### 1. Transient Analysis Output:
 
-   <img width="859" height="713" alt="Screenshot 2025-09-29 160617" src="https://github.com/user-attachments/assets/63389074-9675-4a1f-8a7d-95017ef2eb69" />
+ ![WhatsApp Image 2025-09-29 at 21 18 07_38f87cd6](https://github.com/user-attachments/assets/abacd048-c1fe-491a-b498-8657b4d51ed6)
 
 
-   ![Screenshot 2025-03-24 124545](https://github.com/user-attachments/assets/baf058fc-e967-43bc-ba49-ce9b5e5a2e7d)
+
+ ![WhatsApp Image 2025-09-29 at 21 00 22_05da2759](https://github.com/user-attachments/assets/c841c79d-b1a8-4a05-b94d-f45fe58d9f5d)
+
 
 
 ## Results:
